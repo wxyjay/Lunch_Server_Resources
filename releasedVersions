@@ -1,0 +1,16 @@
+{
+    "tunwave": {
+        "macos": {
+            "1.0": true
+        },
+        "iphoneos": {
+            "1.0": true
+        },
+        "tvos": {
+            "1.0": true
+        },
+        "watchos": {
+            "1.0": true
+        }
+    }
+}
