@@ -1,20 +1,6 @@
 {
     "data": [
         {
-            "id": 1,
-            "title": "Steve",
-            "description": "不仅仅是一个YouTuber",
-            "largeTitle": "科技世界的多面探险家",
-            "headlineTitle": "聚焦科技",
-            "introduction": "Steve自称为“一个不算称职的YouTuber”，但这样的自我评价过于谦虚。实际上，他是一位多才多艺的内容创作者，身份涵盖数码爱好者、Tesla Model Y车主、Apple粉丝、好用好玩APP的推广者，以及一位正在努力学习Swift开发的学习者。Steve的热情不仅限于单一领域，而是广泛涉猎，从而在YouTube、X、Telegram频道上分享了丰富多彩的内容，吸引了一大批忠实的粉丝。\n\n内容创作：科技世界的指南者\n\nSteve的内容创作覆盖了数码产品的使用体验、Apple平台的热门与冷门应用体验、优质App的挖掘推广，以及作为特斯拉车主的驾驶体验。他的视频不仅仅是简单的产品评测，更是将自己对科技的热爱与生活经验融合在一起，为观众提供了独特的视角和深度的见解。\n\n学习Swift的旅程\n\n作为一位Swift学习者，Steve在其YouTube频道上分享了学习Swift开发的过程心得。通过分享编程学习的挑战与成果，Steve鼓励更多人踏入编程世界。他的经历让人们看到，即便是零基础，也可以通过不懈努力学习新技能，实现自我提升。\n\n数码产品与App的深度探索\n\nSteve对数码产品和App的探索并不局限于表面的功能介绍。他深入分析产品的设计理念、用户体验以及如何在日常生活中发挥最大效用。对于Apple平台的应用，Steve不仅分享热门应用，也不忘挖掘那些冷门但极具价值的应用，为观众提供全面的信息。\n\n特斯拉车主的日常\n\n作为Tesla Model Y的车主，Steve分享了他在驾驶特斯拉汽车时的种种体验。从日常使用到长途旅行，他的分享不仅涵盖了驾驶体验，还包括电动车的维护、充电等实用信息。对于那些对特斯拉或电动车感兴趣的观众来说，Steve的频道是获取第一手信息的宝贵资源。\n\n社区互动：搭建粉丝之间的桥梁\n\nSteve深知与观众互动的重要性。在YouTube、X和Telegram频道上，他经常鼓励粉丝们留言讨论，分享自己的看法和经验。Steve的诚恳和热情让他与粉丝之间建立了深厚的联系，形成了一个积极向上、充满活力的社区。\n\n结语：跟随Steve一起探索科技世界\n\nSteve的YouTube频道及其在X和Telegram上的分享，为我们打开了一扇窗，让我们得以一窥科技世界的无限可能。无论是作为数码产品爱好者、Apple粉丝、还是特斯拉车主，Steve都用自己的经验和视角，为观众带来了宝贵的信息和灵感。跟随Steve的脚步，一起探索科技的奥秘，学习新知，享受科技给生活带来的改变吧。",
-            "icon": "http://lunchkit.cc/resources/image/Steve.jpg",
-            "backgroundImage": "http://lunchkit.cc/resources/image/SteveBackground.jpg",
-            "shareLabel": "Go to X",
-            "roundedIcon": true,
-            "iconBoundsFactor": 1,
-            "shareLink": "https://x.com/st7evechou"
-        },
-        {
             "id": 3,
             "title": "小声逼逼（频道）",
             "description": "探索优质应用，发现应用世界的新奇",
@@ -27,6 +13,20 @@
             "roundedIcon": true,
             "iconBoundsFactor": 1,
             "shareLink": "https://t.me/me888888888888"
+        },
+        {
+            "id": 1,
+            "title": "Steve",
+            "description": "不仅仅是一个YouTuber",
+            "largeTitle": "科技世界的多面探险家",
+            "headlineTitle": "聚焦科技",
+            "introduction": "Steve自称为“一个不算称职的YouTuber”，但这样的自我评价过于谦虚。实际上，他是一位多才多艺的内容创作者，身份涵盖数码爱好者、Tesla Model Y车主、Apple粉丝、好用好玩APP的推广者，以及一位正在努力学习Swift开发的学习者。Steve的热情不仅限于单一领域，而是广泛涉猎，从而在YouTube、X、Telegram频道上分享了丰富多彩的内容，吸引了一大批忠实的粉丝。\n\n内容创作：科技世界的指南者\n\nSteve的内容创作覆盖了数码产品的使用体验、Apple平台的热门与冷门应用体验、优质App的挖掘推广，以及作为特斯拉车主的驾驶体验。他的视频不仅仅是简单的产品评测，更是将自己对科技的热爱与生活经验融合在一起，为观众提供了独特的视角和深度的见解。\n\n学习Swift的旅程\n\n作为一位Swift学习者，Steve在其YouTube频道上分享了学习Swift开发的过程心得。通过分享编程学习的挑战与成果，Steve鼓励更多人踏入编程世界。他的经历让人们看到，即便是零基础，也可以通过不懈努力学习新技能，实现自我提升。\n\n数码产品与App的深度探索\n\nSteve对数码产品和App的探索并不局限于表面的功能介绍。他深入分析产品的设计理念、用户体验以及如何在日常生活中发挥最大效用。对于Apple平台的应用，Steve不仅分享热门应用，也不忘挖掘那些冷门但极具价值的应用，为观众提供全面的信息。\n\n特斯拉车主的日常\n\n作为Tesla Model Y的车主，Steve分享了他在驾驶特斯拉汽车时的种种体验。从日常使用到长途旅行，他的分享不仅涵盖了驾驶体验，还包括电动车的维护、充电等实用信息。对于那些对特斯拉或电动车感兴趣的观众来说，Steve的频道是获取第一手信息的宝贵资源。\n\n社区互动：搭建粉丝之间的桥梁\n\nSteve深知与观众互动的重要性。在YouTube、X和Telegram频道上，他经常鼓励粉丝们留言讨论，分享自己的看法和经验。Steve的诚恳和热情让他与粉丝之间建立了深厚的联系，形成了一个积极向上、充满活力的社区。\n\n结语：跟随Steve一起探索科技世界\n\nSteve的YouTube频道及其在X和Telegram上的分享，为我们打开了一扇窗，让我们得以一窥科技世界的无限可能。无论是作为数码产品爱好者、Apple粉丝、还是特斯拉车主，Steve都用自己的经验和视角，为观众带来了宝贵的信息和灵感。跟随Steve的脚步，一起探索科技的奥秘，学习新知，享受科技给生活带来的改变吧。",
+            "icon": "http://lunchkit.cc/resources/image/Steve.jpg",
+            "backgroundImage": "http://lunchkit.cc/resources/image/SteveBackground.jpg",
+            "shareLabel": "Go to X",
+            "roundedIcon": true,
+            "iconBoundsFactor": 1,
+            "shareLink": "https://x.com/st7evechou"
         },
         {
             "id": 0,
