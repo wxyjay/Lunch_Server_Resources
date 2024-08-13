@@ -12,5 +12,19 @@
         "watchos": {
             "1.0": true
         }
-    }
+    },
+    "listennow": {
+            "macos": {
+                "1.0.0": false
+            },
+            "iphoneos": {
+                "1.0.0": false
+            },
+            "tvos": {
+                "1.0.0": false
+            },
+            "watchos": {
+                "1.0.0": false
+            }
+        }
 }
