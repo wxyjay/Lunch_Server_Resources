@@ -1,6 +1,19 @@
 {
     "data": [
-
+ {
+            "id": 0,
+            "title": "ListenNow 频道",
+            "description": "ListenNow Official",
+            "largeTitle": "掌握最新发布动态",
+            "headlineTitle": "新版本、Beta测试、独家内容，尽在官方频道",
+            "introduction": "欢迎加入ListenNow官方Telegram频道！在这里，你可以第一时间了解APP的更新发布信息、参与Beta测试体验，获取独家功能预告与使用小技巧分享。无论是正式版上架，还是全新功能的抢先试玩，都不会错过。快来一起，探索ListenNow的每一次进步！",
+            "icon": "https://listennowapi.858580.xyz/resources/image/listennowplusicon.jpg",
+            "backgroundImage": "https://listennowapi.858580.xyz/resources/image/listennowplusbackground.jpg",
+            "shareLabel": "Subscribe",
+            "roundedIcon": true,
+            "iconBoundsFactor": 1,
+            "shareLink": "https://t.me/listennowplus"
+        },
         {
             "id": 1,
             "title": "Steve",
@@ -16,7 +29,7 @@
             "shareLink": "https://x.com/st7evechou"
         },
         {
-            "id": 0,
+            "id": 2,
             "title": "小鹏Digital",
             "description": "热爱生活与科技的奶爸YouTuber",
             "largeTitle": "武汉奶爸的数码探索之旅",
