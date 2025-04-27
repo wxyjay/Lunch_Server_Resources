@@ -10,7 +10,7 @@
             "icon": "https://listennowapi.858580.xyz/resources/image/listennowplusicon.jpg",
             "backgroundImage": "https://listennowapi.858580.xyz/resources/image/listennowplusbackground.jpg",
             "shareLabel": "Subscribe",
-            "roundedIcon": true,
+            "roundedIcon": false,
             "iconBoundsFactor": 1,
             "shareLink": "https://t.me/listennowplus"
         },
