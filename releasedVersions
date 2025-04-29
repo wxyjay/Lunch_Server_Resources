@@ -21,12 +21,14 @@
             "iphoneos": {
                 "1.0.0": true,
                 "1.0.1": true,
-                "1.0.2": true
+                "1.0.2": true,
+                "1.0.3": true
             },
             "tvos": {
                 "1.0.0": true,
                 "1.0.1": true,
-                "1.0.2": true
+                "1.0.2": true,
+                "1.0.3": true
             },
             "watchos": {
                 "1.0.0": false
